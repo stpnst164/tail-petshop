@@ -1,0 +1,22 @@
+/* .banner__wrapper {
+    position: relative;
+    background: url('./../../assets/banner-bl-bg.jpg');
+
+    width: 966px;
+    height: 752px;
+} */
+
+.banner__wrapper {
+    background: url('./../../assets/slider.jpg');
+
+    width: 966px;
+    height: 752px;
+}
+
+/* .yellow__wrapper { */
+/* position: absolute;
+    background: url('./../../assets/banner-yw-rctg.jpg');
+
+    width: 966px;
+    height: 752px; */
+/* } */

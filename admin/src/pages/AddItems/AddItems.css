@@ -1,0 +1,68 @@
+.add-items {
+    width: 70%;
+    padding: 20px;
+    /* color: #6d6d6d;
+     */
+    color: #000;
+    font-size: 16px;
+}
+
+.add-items form {
+    gap: 20px;
+}
+
+.add-items__img__upload {
+    width: 10%;
+    background-color: var(--color-accent-grey);
+    padding: 10px;
+}
+
+.add-items__product__brand,
+.add-items__product__title {
+    width: 30%;
+}
+
+.add-items__product__brand input,
+.add-items__product__title textarea {
+    padding: 10px;
+}
+
+.add-items__category__pet,
+.add-items__category__good {
+    width: 30%;
+}
+
+.add-items__category__pet input,
+.add-items__category__good textarea {
+    padding: 10px;
+}
+
+.add-items__weight__price {
+    display: flex;
+    gap: 30px;
+}
+
+.add-items__weight select,
+.add-items__price input {
+    width: 70%;
+    padding: 10px;
+}
+
+input,
+textarea,
+select {
+    border: 1px solid #6d6d6d;
+}
+
+.add-items__btn {
+    width: 30%;
+    padding: 10px;
+    background-color: var(--color-accent2);
+    color: var(--color-white);
+}
+
+.add-items__btn:hover {
+    background-color: var(--color-accent3);
+    color: var(--color-white);
+    cursor: pointer;
+}

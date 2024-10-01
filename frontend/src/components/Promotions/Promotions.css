@@ -1,0 +1,149 @@
+.promotions {
+    margin-bottom: 60px;
+}
+
+.promotions__title {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.promotions__cards {
+    display: flex;
+    gap: 24px;
+}
+
+.promotions__cards__item {
+    padding: 20px;
+    width: 416px;
+    min-height: 520px;
+
+    border: 1px solid var(--color-accent-grey);
+
+    position: relative;
+}
+
+.promotions__cards__item__img {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+
+    position: relative;
+}
+
+.fav__btn {
+    position: absolute;
+    top: -5px;
+    left: 345px;
+}
+
+.promotion__btn {
+    padding: 5px;
+    width: 60px;
+    height: 34px;
+    background-color: var(--color-accent2);
+    border-radius: 3px;
+
+    position: absolute;
+    top: 1px;
+    left: 0px;
+    margin-bottom: 10px;
+}
+
+.promotion__btn__text {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-white);
+}
+
+.promotion__sale__btn {
+    padding: 5px;
+    width: 46px;
+    height: 30px;
+    background-color: var(--color-accent);
+    border-radius: 3px;
+
+    position: absolute;
+    top: 44px;
+    left: 0px;
+}
+
+.promotion__sale__btn__text {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-white);
+}
+
+.promotions__cards__item__price {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    margin-bottom: 5px;
+}
+
+.current-price {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+.old-price {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+    text-decoration: line-through;
+}
+
+.promotions__cards__item__text {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+
+    margin-bottom: 30px;
+}
+
+.golden__item__text {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+
+    margin-bottom: 12px;
+}
+
+.promotions__cards__item__weight {
+    width: 43px;
+    height: 35px;
+    background-color: var(--color-accent-grey);
+    border-radius: 3px;
+
+    margin-bottom: 10px;
+}
+
+.golden__item__weight {
+    margin-bottom: 10px;
+}
+
+.promotions__cards__item__weight__text {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.promotions__cards__item__cart {
+    display: block;
+    width: 376px;
+    min-height: 50px;
+    background-color: var(--color-accent2);
+    border-radius: 10px;
+}
+
+.promotions__cards__item__cart__text {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--color-white);
+}

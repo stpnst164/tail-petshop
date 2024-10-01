@@ -1,0 +1,45 @@
+.dogs-products-container {
+    display: flex;
+}
+
+.dogs-products__title {
+    font-family: var(--font-family-base);
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+.dogs-products__wrapper {
+    padding: 0 79px 0 79px;
+}
+
+.dogs-products__cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+#dogs-products__cards__item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 250px;
+    min-height: 209px;
+    padding: 0px 50px 20px 50px;
+    border: 1px solid var(--color-accent-grey);
+    box-shadow: 2px 4px 4px rgba(47, 167, 183, 0.3);
+}
+
+#dogs-products__cards__item__img {
+    margin-bottom: 20px;
+}
+
+#dogs-products__cards__title {
+    font-family: var(--font-family-base);
+    font-weight: 700;
+    font-size: 16px;
+}
+
+#dogs-products__cards__item.active {
+    border: 3px solid var(--color-accent);
+}

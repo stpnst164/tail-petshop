@@ -1,0 +1,22 @@
+.navbar {
+    padding: 12px 0 12px 0;
+    background-color: var(--color-accent2);
+    margin-bottom: 54px;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.nav-list__link {
+    list-style: none;
+}
+
+.nav-list__item {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 16px;
+    color: var(--color-white);
+}

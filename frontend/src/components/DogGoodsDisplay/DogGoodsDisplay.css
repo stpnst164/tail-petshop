@@ -1,0 +1,17 @@
+.dog-goods-display {
+    padding: 50px 0 50px 0;
+}
+
+.dog-goods-display__title {
+    margin-bottom: 20px;
+    font-family: var(--font-family-base);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.dog-foods-display__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}

@@ -1,0 +1,16 @@
+.brands {
+    margin-bottom: 60px;
+}
+
+.brands__title {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 32px;
+
+    margin-bottom: 20px;
+}
+
+.brands__cards {
+    display: flex;
+    gap: 24px;
+}

@@ -1,0 +1,25 @@
+.sale {
+    padding: 13px 0 13px;
+    background-color: var(--color-accent2);
+    margin-bottom: 47px;
+}
+
+.sale__text__btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sale__text {
+    margin-left: auto;
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 13px;
+    text-decoration: underline;
+    color: var(--color-white);
+}
+
+.sale__btn {
+    display: inline-block;
+    margin-left: auto;
+}

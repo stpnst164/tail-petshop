@@ -1,0 +1,94 @@
+.footer-extra {
+    margin-bottom: 20px;
+}
+
+.footer-extra__wrapper {
+    padding: 0 50px 50px 50px;
+
+    display: flex;
+    justify-content: space-between;
+    gap: 107px;
+}
+
+.footer-extra__catalog__title {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.footer-extra__catalog__list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-extra__catalog__list a {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.footer-extra__company__title {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.footer-extra__company__list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-extra__company__list a {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.footer-extra__clients__title {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.footer-extra__clients__list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.footer-extra__clients__list a {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.footer-extra__payment__title {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.footer-extra__payment__ways {
+    display: flex;
+    gap: 5px;
+}
+
+.footer-extra-divider {
+    width: 1296px;
+}
+
+.footer-extra__captions {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 12px;
+    text-align: center;
+}

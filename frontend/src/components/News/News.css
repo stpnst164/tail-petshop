@@ -1,0 +1,68 @@
+.news {
+    margin-bottom: 60px;
+}
+
+.news__title {
+    font-family: var(--font-family-base);
+    font-weight: 500;
+    font-size: 32px;
+
+    margin-bottom: 3px;
+}
+
+.news__cards__wrapper {
+    padding: 25px 0 25px 25px;
+    display: flex;
+    gap: 47px;
+
+    width: 1296px;
+    min-height: 256px;
+    border-radius: 3px;
+    background-color: var(--color-accent);
+}
+
+.news__cards__item {
+    display: flex;
+    gap: 5px;
+
+    padding: 20px;
+    width: 348px;
+    min-height: 207px;
+    background-color: var(--color-white);
+}
+
+.news__cards__item__img img {
+    max-width: 100%;
+}
+
+.news__cards__item__price {
+    font-family: var(--font-family-base);
+    font-weight: 600;
+    font-size: 24px;
+
+    margin-bottom: 11px;
+}
+
+.news__cards__item__text {
+    font-family: var(--font-family-base);
+    font-weight: 400;
+    font-size: 16px;
+
+    width: 157px;
+    min-height: 63px;
+
+    margin-bottom: 11px;
+}
+
+.news__cards__item__cart {
+    display: block;
+    width: 157px;
+    min-height: 50px;
+    background-color: var(--color-accent2);
+    border-radius: 10px;
+}
+
+.news__cards__item:last-child {
+    width: 110px;
+    min-height: 207px;
+}

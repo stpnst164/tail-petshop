@@ -1,0 +1,43 @@
+.dog-goods-item {
+    padding: 20px;
+    width: 416px;
+    max-height: 520px;
+
+    border: 1px solid var(--color-accent-grey);
+
+    position: relative;
+}
+
+.dog-goods-item__counter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.dog-goods-item__img {
+    width: 200px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 10px;
+
+    position: relative;
+}
+
+.weight {
+    min-width: 80px;
+    height: 35px;
+    background-color: var(--color-accent-grey);
+    border-radius: 3px;
+
+    margin-bottom: 10px;
+}
+
+.weight-price {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}

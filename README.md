@@ -25,7 +25,8 @@
      1. Добавление товара - в поля формы вводятся данные о товаре и при отправлении формы товар также добавляется в mongodb (коллекция goods)
      2. Получение списка добавленных товаров, данные берутся из коллекции 
      3. Заказы - временно не работает, позже будет реализована и эта страница
-      <img src="![image](https://github.com/user-attachments/assets/f5ed671f-e7ec-41ee-abdb-ad034e7be3f6)"/>
+      <img src="![image](https://github.com/stpnst164/assets/f5ed671f-e7ec-41ee-abdb-ad034e7be3f6)"/>
+      ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
   
 
 <br/>  

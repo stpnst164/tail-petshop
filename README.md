@@ -29,7 +29,7 @@
     <image 
     src="/frontend/src/assets/screenshots/screenshot1.png" 
     alt="Скриншот папок проекта"
-    align="left">
+    align="center">
 
 
     

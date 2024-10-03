@@ -94,10 +94,29 @@
         alt="Общий каталог"
         align="center">
 
+      При клике в карточке товара на кнопку "В корзину":
+       <image 
+        src="/frontend/src/assets/screenshots/card.png" 
+        alt="Карточка товара"
+        align="center">
+
+      Высвечивается счетчик товара - товар добавлен:
+       (Добавление товара в саму корзину пользователя пока не реализовано)
+       <image 
+        src="/frontend/src/assets/screenshots/click_cart.png" 
+        alt="Карточка товара"
+        align="center">
+
+      При клике на  "+" и "-" можно добавить еще один товар или удалить:
+       <image 
+        src="/frontend/src/assets/screenshots/click_cart.png" 
+        alt="Карточка товара"
+        align="center">
+
       При клике на раздел - отображаются товары именно этого раздела:
        <image 
-        src="/frontend/src/assets/screenshots/hover_category.png" 
-        alt="Ховер раздела"
+        src="/frontend/src/assets/screenshots/good_counter.png" 
+        alt="Счетчик"
         align="center">
 
         <image 

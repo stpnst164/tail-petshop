@@ -57,13 +57,55 @@
 
      <h3>Страницы сайта</h3>
      
-      Домашняя страница:
+      <h4>Домашняя страница:<h4>
        <image 
       src="/frontend/src/assets/screenshots/screenshot4.png" 
       alt="Скриншот главной страницы сайта"
       align="center">
-      
 
+      <h4>Акции дня</h4>
+       <image 
+      src="/frontend/src/assets/screenshots/promotions.png" 
+      alt="Акции дня"
+      align="center">
+
+      <h4>Популярные категории</h4>
+       <image 
+      src="/frontend/src/assets/screenshots/categories.png" 
+      alt="Популярные категории"
+      align="center">
+
+      Здесь при клике на стрелочку в карточке категории можно перейти на страницу определенной категории животных:
+         <image 
+        src="/frontend/src/assets/screenshots/arrow_categories.png" 
+        alt="Стрелка - переход на определенную категорию"
+        align="center">
+
+      <h4>Страница определенной категории животных (собак):<h4>
+       Здесь высвечиваются карточки с разделами товаров категории:
+         <image 
+        src="/frontend/src/assets/screenshots/dogs_categories.png" 
+        alt="Страница категории собак"
+        align="center">
+  
+      А также высвечивается общий каталог всех товаров:
+       <image 
+        src="/frontend/src/assets/screenshots/all_catalog.png" 
+        alt="Общий каталог"
+        align="center">
+
+      При клике на раздел - отображаются товары именно этого раздела:
+       <image 
+        src="/frontend/src/assets/screenshots/hover_category.png" 
+        alt="Ховер раздела"
+        align="center">
+
+        <image 
+        src="/frontend/src/assets/screenshots/personal_ctg.png" 
+        alt="Персональный раздел"
+        align="center">
+      
+      <h4>Авторизация</h4>
       В навигации есть иконка пользователя - при клике появится окно авторизации:
        <image 
         src="/frontend/src/assets/screenshots/screenshot5.png" 
@@ -89,6 +131,9 @@
         src="/frontend/src/assets/screenshots/screenshot9.png" 
         alt="Регистрация пользователя"
         align="center">
+
+
+      <h4></h4>
 
       
 

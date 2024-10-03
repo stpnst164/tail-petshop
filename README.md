@@ -62,12 +62,7 @@
       src="/frontend/src/assets/screenshots/screenshot4.png" 
       alt="Скриншот главной страницы сайта"
       align="center">
-
-      Домашняя страница:
-       <image 
-      src="/frontend/src/assets/screenshots/screenshot4.png" 
-      alt="Скриншот главной страницы сайта"
-      align="center">
+      
 
       В навигации есть иконка пользователя - при клике появится окно авторизации:
        <image 

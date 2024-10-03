@@ -109,16 +109,11 @@
 
       При клике на  "+" и "-" можно добавить еще один товар или удалить:
        <image 
-        src="/frontend/src/assets/screenshots/click_cart.png" 
-        alt="Карточка товара"
-        align="center">
-
-      При клике на раздел - отображаются товары именно этого раздела:
-       <image 
         src="/frontend/src/assets/screenshots/good_counter.png" 
         alt="Счетчик"
         align="center">
 
+      При клике на раздел - отображаются товары именно этого раздела:
         <image 
         src="/frontend/src/assets/screenshots/personal_ctg.png" 
         alt="Персональный раздел"

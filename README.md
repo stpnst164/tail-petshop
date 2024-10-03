@@ -104,6 +104,31 @@
         src="/frontend/src/assets/screenshots/personal_ctg.png" 
         alt="Персональный раздел"
         align="center">
+
+
+      <h4>Новинки</h4>
+      <image 
+        src="/frontend/src/assets/screenshots/news.png" 
+        alt="Новинки"
+        align="center">
+
+      <h4>Популярные бренды</h4>
+      <image 
+        src="/frontend/src/assets/screenshots/brands.png" 
+        alt="Бренды"
+        align="center">
+
+      <h4>Контакты</h4>
+      <image 
+        src="/frontend/src/assets/screenshots/contacts.png" 
+        alt="Контакты"
+        align="center">
+
+      <h4>Подвал сайта</h4>
+      <image 
+        src="/frontend/src/assets/screenshots/footer.png" 
+        alt="Подвал сайта"
+        align="center">
       
       <h4>Авторизация</h4>
       В навигации есть иконка пользователя - при клике появится окно авторизации:

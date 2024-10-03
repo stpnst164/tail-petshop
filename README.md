@@ -55,11 +55,45 @@
 
      Запускается сайт и можно перейти по ссылке на локальный хост и посмотреть сам сайт
 
+     <h3>Страницы сайта</h3>
+     
       Домашняя страница:
        <image 
       src="/frontend/src/assets/screenshots/screenshot4.png" 
       alt="Скриншот главной страницы сайта"
       align="center">
+
+      Домашняя страница:
+       <image 
+      src="/frontend/src/assets/screenshots/screenshot4.png" 
+      alt="Скриншот главной страницы сайта"
+      align="center">
+
+      В навигации есть иконка пользователя - при клике появится окно авторизации:
+       <image 
+        src="/frontend/src/assets/screenshots/screenshot5.png" 
+        alt="Иконка пользователя в навигации"
+        align="center">
+        <image 
+        src="/frontend/src/assets/screenshots/screenshot6.png" 
+        alt="Окно авторизации (вход)"
+        align="center">
+
+      После входа пользователя, ему будет доступен свой личный кабинет:
+       <image 
+        src="/frontend/src/assets/screenshots/screenshot7.png" 
+        alt="Профиль пользователя"
+        align="center">
+       <image 
+      src="/frontend/src/assets/screenshots/screenshot8.png" 
+      alt="Опции профиля"
+      align="center">
+
+      Если пользователь еще не зарегистрирован, при клике "Нажать здесь" высветится окно с регистрацией:
+       <image 
+        src="/frontend/src/assets/screenshots/screenshot9.png" 
+        alt="Регистрация пользователя"
+        align="center">
 
    8. Чтобы добавить товар или отследить список товаров, можно перейти в папку admin:
       cd admin
